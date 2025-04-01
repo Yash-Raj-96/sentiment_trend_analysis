@@ -113,7 +113,7 @@ To successfully run the **Sentiment Analysis and Trend Detection on Twitter Usin
 
 ### Fig 1.1: Sentiment Analysis
 
-![Sentiment Analysis](images/sentiment_analysis.png)
+![Sentiment Analysis](images/image1.png)(images/image2.png)
 
 ## Conclusion
 
