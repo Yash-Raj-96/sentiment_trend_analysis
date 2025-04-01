@@ -1,6 +1,0 @@
-tweepy
-pandas
-textblob
-matplotlib
-seaborn
-wordcloud
