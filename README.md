@@ -125,13 +125,4 @@ This project demonstrates how NLP can be used to analyze and visualize Twitter d
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-
-### Key Points to Consider:
-1. Replace the image path `images/sentiment_analysis.png` with the actual path where you store your screenshot in the project folder.
-2. Ensure your code, dataset, and `README.md` file are all pushed to your repository.
-3. This `README.md` provides clear instructions on setting up and running the project along with code examples and expected outputs.
-
-Let me know if you need any further help!
 ```
