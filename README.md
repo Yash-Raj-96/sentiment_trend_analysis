@@ -1,6 +1,3 @@
-Here’s the complete `README.md` file for your **"Sentiment Analysis and Trend Detection on Twitter Using NLP"** project:
-
-````markdown
 # Sentiment Analysis and Trend Detection on Twitter Using NLP
 
 This project applies Natural Language Processing (NLP) techniques to analyze sentiments and detect trends from Twitter data. It involves collecting tweets, performing sentiment analysis, and identifying trending topics based on tweet frequency and user interactions.
@@ -56,7 +53,6 @@ plt.xlabel("Sentiment")
 plt.ylabel("Count")
 plt.show()
 ```
-````
 
 ## Instructions
 
