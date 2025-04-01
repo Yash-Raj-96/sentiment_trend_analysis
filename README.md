@@ -56,28 +56,58 @@ plt.show()
 
 ## Instructions
 
-1. **Install the necessary libraries**:
+To successfully run the **Sentiment Analysis and Trend Detection on Twitter Using NLP** project, follow these steps:
 
+---
+
+## **Steps to Run the Project**
+
+### 1. **Clone the Repository**
+   If you haven't already cloned the project from GitHub, do so with:
+   ```bash
+   git clone https://github.com/Yash-Raj-96/sentiment_trend_analysis.git
+   cd sentiment_trend_analysis
+   ```
+
+---
+
+### 2. **Install the Necessary Libraries**
+   Ensure you have Python installed, then install the required libraries using:
    ```bash
    pip install pandas textblob matplotlib
    ```
+   If additional dependencies are needed, install them with:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-2. **Collect Twitter Data**:
-   - Use Twitter API or download a pre-existing dataset from Kaggle.
-3. **Preprocess the Tweets**:
+---
 
-   - Clean the text data by removing stopwords, special characters, and converting the text to lowercase.
+### 3. **Prepare the Dataset**
+   - Ensure the dataset (`tweets.csv`) is present in the project folder.
+   - If collecting real-time data, modify the script to fetch tweets via the Twitter API.
 
-4. **Apply Sentiment Analysis**:
+---
 
-   - Use `TextBlob` or other NLP libraries to perform sentiment classification on the tweets.
+### 4. **Run the Python Script**
+   Execute the sentiment analysis script:
+   ```bash
+   python sentiment_trend.py
+   ```
 
-5. **Visualize the Results**:
+---
 
-   - Generate graphs like bar charts or word clouds to visualize the sentiment distribution and trending topics.
+### 5. **View the Output**
+   - Sentiment classification will be displayed in the terminal.
+   - A bar chart visualizing sentiment distribution will be generated.
 
-6. **Analyze Trends**:
-   - Track and analyze the frequency of keywords over time to detect the trending topics.
+---
+
+### 6. **Analyze the Trends**
+   - Modify the script to detect trending topics using word frequencies.
+   - Extend functionality to plot trends over time.
+
+---
 
 ## Screenshots
 
